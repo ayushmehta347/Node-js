@@ -1,0 +1,1 @@
+console.log("lora");//browser url m sript.js likna hoga call krne k liye
